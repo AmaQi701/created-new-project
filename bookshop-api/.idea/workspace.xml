@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd9b3804-5161-48b7-8887-350aa568c620" name="Default Changelist" comment="" />
+    <list default="true" id="fd9b3804-5161-48b7-8887-350aa568c620" name="Default Changelist" comment="git commit -am &quot;created (entity)&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +122,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunAnythingCache">
@@ -146,8 +148,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600507835642</updated>
       <workItem from="1600507836693" duration="103000" />
-      <workItem from="1600508022268" duration="1789000" />
+      <workItem from="1600508022268" duration="2333000" />
     </task>
+    <task id="LOCAL-00001" summary="git commit -am &quot;created (entity)&quot;">
+      <created>1600509971647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600509971647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +174,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -am &quot;created (entity)&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -am &quot;created (entity)&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1600507896502">
@@ -182,30 +196,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600507917987" />
-    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1600509228388">
+    <state width="1078" height="240" key="GridCell.Tab.0.bottom" timestamp="1600509909375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600509228388" />
-    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1600509228388">
+    <state width="1078" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600509909375" />
+    <state width="1078" height="240" key="GridCell.Tab.0.center" timestamp="1600509909375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600509228388" />
-    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1600509228388">
+    <state width="1078" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600509909375" />
+    <state width="1078" height="240" key="GridCell.Tab.0.left" timestamp="1600509909375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600509228388" />
-    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1600509228388">
+    <state width="1078" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600509909375" />
+    <state width="1078" height="240" key="GridCell.Tab.0.right" timestamp="1600509909375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600509228388" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1600508034486">
+    <state width="1078" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600509909375" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600510060973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600508034486" />
-    <state x="671" y="285" width="672" height="677" key="run.anything.popup" timestamp="1600509256421">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600510060973" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600510340085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="671" y="285" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600509256421" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600510340085" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600509865039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600509865039" />
+    <state x="671" y="285" width="672" height="677" key="run.anything.popup" timestamp="1600509845305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="285" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600509845305" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1600508038118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
